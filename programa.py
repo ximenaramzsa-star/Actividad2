@@ -1,1 +1,1 @@
-print("Actividad de publicación de proyecto en GitHub")
+print("Cambio realizado por Ximena")
